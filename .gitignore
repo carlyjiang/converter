@@ -3,6 +3,7 @@
 #################
 
 *.pydevproject
+.bak
 .project
 .metadata
 bin/

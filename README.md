@@ -1,1 +1,1 @@
-This program is used for converting file encoded from UTF8 to Default (GBK)
+CLI tool converts file encoding from UTF8 to GBK.
